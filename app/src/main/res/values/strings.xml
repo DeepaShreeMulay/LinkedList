@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinkedList</string>
+    <string name="add_at_middle">Add at Middle</string>
+    <string name="add_at_beginning">Add at Beginning</string>
+    <string name="add_at_end">Add at End</string>
+    <string name="clear">Clear</string>
+</resources>
